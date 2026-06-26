@@ -15,23 +15,6 @@ Click any of the badges below to jump straight to my verified coding profiles, c
 
 ---
 
-## 📊 Live Coding Analytics
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <!-- Dynamic LeetCode Statistics Card -->
-      <img src="https://leetcode-stats-component.vercel.app/api?username=goelabhinav&theme=dark" alt="Abhinav's LeetCode Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <!-- Dynamic GitHub Profile Stats Card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=goelabhinav2001&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Abhinav's GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack & Toolkit
 
 ### 💻 Languages & Frameworks
@@ -80,10 +63,6 @@ Translating theoretical complexities into scalable, bare-metal operations:
 </details>
 
 ---
-
-## 🎯 Community & System Architecture Contributions
-* **Problem Setter:** Actively designed, balanced, and pushed out algorithmic problems for global competitive programming contests like *CodeInvicta* and *Codein12* under the GeekHaven coding umbrella.
-* **Open Source & Core Codebases:** Passionate about modular system designs, robust automation testing systems, and keeping code footprints minimal and fast.
 
 <p align="center">
   <i>"An elegant solution to a problem is almost always the one with the smallest memory footprint and the highest read frequency."</i>
